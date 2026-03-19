@@ -1,6 +1,7 @@
 NAME-
     RT-Extension-AI - AI Features for Request Tracker
-DEMO URL- [[RT-Extension-AI - AI Features for Request Tracker](https://drive.google.com/file/d/1OMAhzTdOxZIcZ43-e3ILQIHCBCDMequf/view)
+## DEMO-
+[RT-Extension-AI - AI Features for Request Tracker](https://drive.google.com/file/d/1OMAhzTdOxZIcZ43-e3ILQIHCBCDMequf/view)
 DESCRIPTION
     This RT extension introduces AI-powered features to enhance ticket
     handling efficiency and improve the user experience in Request Tracker
